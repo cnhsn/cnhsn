@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">A serverless project and minimalist design lover Web & Android Developer from Turkey.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sn0bzy" alt="sn0bzy" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sn0bzy" alt="sn0bzy" /> </p>
 
 - 🔭 I’m currently working as translator on [MDx](https://github.com/yrccondor/mdx)
 
