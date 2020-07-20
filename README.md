@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
-<h3 align="center">A serverless project and minimalist design lover Web & Android Developer from Turkey.</h3>
+<h3 align="center">A serverless project and minimalist design lover and Web & Android Developer from Turkey.</h3>
 
 - 🔭 I’m currently working as WordPress Expert on [Can Group](https://can.biz.tr)
 
