@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **hasan@can.biz.tr**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sn0bzy&show_icons=true" alt="sn0bzy" /> </p>
-
 <p align="center">
 <a href="https://codepen.io/sn0bzy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sn0bzy" height="20" width="20" /></a>
 <a href="https://dev.to/sn0bzy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sn0bzy" height="20" width="20" /></a>
