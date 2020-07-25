@@ -23,5 +23,6 @@
 <a href="https://instagram.com/sn0bzy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sn0bzy" height="20" width="20" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sn0bzy" alt="sn0bzy" /> </p>
 <p align="center"> <a href="https://twitter.com/Sn0bzy"><img src="https://img.shields.io/twitter/follow/sn0bzy?label=Follow%20at%20Twitter&style=for-the-badge" alt="sn0bzy" /> </a></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sn0bzy" alt="sn0bzy" /> </p>
+
