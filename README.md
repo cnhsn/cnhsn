@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on [https://hasan.im](https://hasan.im)
 
-- 💬 Ask me about **php, sql, nodejs, go**
+- 💬 Ask me about **python, go**
 
 - 📫 How to reach me **hasan@can.biz.tr**
 
