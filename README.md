@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working as WordPress Expert on [Can Group](https://can.biz.tr)
 
-- 👨‍💻 All of my projects are available at [https://hasancan.net.tr](https://hasancan.net.tr)
+- 👨‍💻 All of my projects are available at [https://hasancan.net.tr](my portfolio)
 
-- 📝 I regulary write articles on [https://hasan.im](https://hasan.im)
+- 📝 I regulary write articles on [https://hasan.im](my blog)
 
 - 💬 Ask me about **python, go**
 
