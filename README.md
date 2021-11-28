@@ -29,5 +29,8 @@
 
 <p align="center"> <a href="https://twitter.com/Sn0bzy"><img src="https://img.shields.io/twitter/follow/sn0bzy?label=Follow%20at%20Twitter&style=for-the-badge" alt="sn0bzy" /> </a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sn0bzy" alt="sn0bzy" /> </p>
+<p align="center"> <img src="https://img.shields.io/discord/561437482990698520" alt="sn0bzy" /> </p>
 <p align="center"> <a href="https://hasan.im"><img src="https://raw.githubusercontent.com/Sn0bzy/Sn0bzy/master/Cover.jpg" alt="sn0bzy" /></a> </p>
+
+
 
