@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">A serverless project and minimalist design lover and Web & Android Developer from Turkey.</h3>
 
-- 🔭 I’m currently working as WordPress Expert on [Can Group](https://can.biz.tr)
+- 🔭 I’m currently working as WordPress Expert on [Rodiler](https://rodiler.com)
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://hasancan.net.tr)
 
