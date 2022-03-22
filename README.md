@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as WordPress Expert on [Rodiler](https://rodiler.com)
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://hasancan.net.tr)
+- 👨‍💻 All of my projects are available at [my portfolio](#)
 
 - 📝 I regulary write articles on [my blog](https://hasan.im)
 
