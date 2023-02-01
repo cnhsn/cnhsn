@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">A serverless project and minimalist design lover and Web & Android Developer from Turkey.</h3>
 
-- 🔭 I’m currently working as WordPress Expert on [Rodiler](https://rodiler.com)
+- 🔭 I’m currently a Master's student at RTU
 
-- 👨‍💻 All of my projects are available at [my portfolio](#)
+- 👨‍💻 All of my projects are available on [my portfolio](https://sprd.li/can)
 
 - 📝 I regulary write articles on [my blog](https://hasan.im)
 
-- 💬 Ask me about **python, go**
+- 💬 Ask me about **python, AWS**
 
 - 📫 How to reach me **hasan@can.biz.tr**
 
