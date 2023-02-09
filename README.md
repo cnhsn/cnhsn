@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
-<h3 align="center">A serverless project and minimalist design lover and Web & Android Developer from Turkey.</h3>
+<h3 align="center">Someone from Turkey.</h3>
 
 - 🔭 I’m currently a Master's student at RTU
 
