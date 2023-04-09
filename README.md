@@ -23,7 +23,7 @@
 <a href="https://codesandbox.com/sn0bzy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sn0bzy" height="20" width="20" /></a>
 <a href="https://kaggle.com/sn0bzy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sn0bzy" height="20" width="20" /></a>
 <a href="https://fb.com/sn0bzy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sn0bzy" height="20" width="20" /></a>
-<a href="https://instagram.com/sn0bzy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sn0bzy" height="20" width="20" /></a>
+<a href="https://instagram.com/cnxhsn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sn0bzy" height="20" width="20" /></a>
 </p>
 
 <p align="center"> <a href="https://twitter.com/Sn0bzy"><img src="https://img.shields.io/twitter/follow/sn0bzy?label=Follow%20at%20Twitter&style=for-the-badge" alt="sn0bzy" /> </a></p>
