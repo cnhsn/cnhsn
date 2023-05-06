@@ -7,6 +7,8 @@
 
 - 📝 I regulary write articles on [my blog](https://hasan.im)
 
+- 🧰 Personal devops blogs and insights on [opsway](https://opsway.dev)
+
 - 💬 Ask me about **python, AWS**
 
 - 📫 How to reach me **hasan@can.biz.tr**
