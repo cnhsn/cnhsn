@@ -2,7 +2,7 @@
 <h3 align="center">Someone from Latvia.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Accenture Latvija<br>👯 I’m looking to collaborate on all open-source projects<br>🤝 I’m looking for help with backend/server-side things, localization<br>🌱 I’m currently learning cloud services, GoLang, Python<br>💬 Ask me about cloud services, or basics about everything.
+🔭 I’m currently working on Accenture Latvija<br>👯 I’m looking to collaborate on all open-source projects<br>🤝 I’m looking for help with backend/server-side things, localization<br>🌱 I’m currently learning cloud services, Node.js, Python<br>💬 Ask me about cloud services, or basics about everything.
 
 
 ## 🌐 Socials:
