@@ -27,7 +27,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=cnhsn&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cnhsn&icon=5&color=10)](https://visitcount.itsvg.in)
 
 <p align="center"> <a href="https://hasan.im"><img src="https://raw.githubusercontent.com/Sn0bzy/Sn0bzy/master/Cover.jpg" alt="sn0bzy" /></a> </p>
 
