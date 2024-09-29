@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
-<h3 align="center">Someone from Latvia.</h3>
+<h3 align="center">Someone from Turkey.</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Accenture Latvija<br>👯 I’m looking to collaborate on all open-source projects<br>🤝 I’m looking for help with backend/server-side things, localization<br>🌱 I’m currently learning cloud services, Node.js, Python<br>💬 Ask me about cloud services, or basics about everything.
